@@ -1,0 +1,10 @@
+finta
+numpy
+matplotlib
+scikit-learn == 1.2.2
+pybit
+ccxt
+pandas
+joblib
+python-telegram-bot
+asciichartpy
